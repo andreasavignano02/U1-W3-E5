@@ -4,7 +4,6 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <link href="Style.css" rel="stylesheet" />
     <title></title>
 </head>
 <body>
@@ -31,12 +30,12 @@
                     </p>
                 </div>
                 <div class="SalaB">
-                    <p>Biglietti venduti Sala Nord:<asp:Label ID="LabelBighettiVendutiB" runat="server" Text=""></asp:Label>
+                    <p>Biglietti venduti Sala EST:<asp:Label ID="LabelBighettiVendutiB" runat="server" Text=""></asp:Label>
                         Ridotti:<asp:Label ID="LabelBighettiRidottiVendutiB" runat="server" Text=""></asp:Label>
                     </p>
                 </div>
                 <div class="SalaC">
-                    <p>Biglietti venduti Sala Nord:<asp:Label ID="LabelBighettiVendutiC" runat="server" Text=""></asp:Label>
+                    <p>Biglietti venduti Sala SUD:<asp:Label ID="LabelBighettiVendutiC" runat="server" Text=""></asp:Label>
                         Ridotti:<asp:Label ID="LabelBighettiRidottiVendutiC" runat="server" Text=""></asp:Label>
                     </p>
                 </div>
