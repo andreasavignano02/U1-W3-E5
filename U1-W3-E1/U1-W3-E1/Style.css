@@ -1,0 +1,11 @@
+﻿body {
+    background-color: black
+}
+p,h1,button{
+    text-align:center;
+    color:white;
+    font-size: 2rem;   
+}
+input{
+    margin: 0 auto
+}
